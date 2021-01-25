@@ -10,7 +10,7 @@ abstract class EquimentAvailabilityHelper {
 	 * EquimentAvailabilityHelper constructor.
 	 * @param PDO $oDatabaseConnection
 	 */
-	public function __construct(private PDO $oDatabaseConnection) {
+	public function __construct(protected PDO $oDatabaseConnection) {
 
 	}
 
