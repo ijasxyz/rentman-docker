@@ -28,3 +28,7 @@ After running these commmands, these urls are available:
 ## Remarks
 
 - If anything is unclear, just ask!
+
+## Notes
+
+- The reference to the cli version submitted earlier - https://github.com/ijasxyz/rentman-cli 
